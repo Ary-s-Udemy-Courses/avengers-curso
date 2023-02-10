@@ -5,3 +5,4 @@
 * Robatero (esta palabra no existe)
 * Dr. Doom
 * Dr. Simi
+* Capitan America
